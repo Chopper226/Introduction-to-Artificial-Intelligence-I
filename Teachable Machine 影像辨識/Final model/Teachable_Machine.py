@@ -6,7 +6,7 @@ import numpy as np
 model = load_model('keras_model.h5', compile=False)
 
 data = np.ndarray(shape=(1, 224, 224, 3), dtype=np.float32)
-image = Image.open('C++.png').convert('RGB')
+image = Image.open('C++.png').convert('RGB') #測試檔案
 size = (224, 224)
 image = ImageOps.fit(image, size, Image.ANTIALIAS)
 
