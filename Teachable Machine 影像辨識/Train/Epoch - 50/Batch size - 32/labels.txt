@@ -1,4 +1,4 @@
 0 C++
-1 Python
+1 Py
 2 Java
-3 JavaScript
+3 JS
