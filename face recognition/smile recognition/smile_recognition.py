@@ -24,4 +24,3 @@ for (x, y, w, h) in faces:
 
 cv2.imshow( "Image" , img2) # 顯示圖片
 cv2.waitKey(0)
-#照片來源 : https://www.cheers.com.tw/article/article.action?id=5099002
