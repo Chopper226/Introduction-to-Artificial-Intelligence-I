@@ -23,5 +23,3 @@ for (x, y, w, h) in faces:
 
 cv2.imshow( "Image",img2) # 顯示圖片
 cv2.waitKey(0)
-# 圖片來源 : https://www.instagram.com/p/CYOx3PYluCF/
-
